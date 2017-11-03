@@ -160,13 +160,3 @@ h5{
     padding-left: 2px;
     border-left: 3px #9C0 solid;
 }
-/* from https://stackoverflow.com/questions/19414856/how-can-i-make-all-images-of-different-height-and-width-the-same-via-css */
-.crop {
- height: 300px;
- width: 400px;
- overflow: hidden;
-}
-.crop img {
- height: auto;
- width: 400px;
-}
